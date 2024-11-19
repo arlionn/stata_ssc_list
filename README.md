@@ -8,7 +8,9 @@ get all Stata commands contributed at SSC.
 
 ## Stata codes
 
-- [stata_ssc_list.do]()
+- [stata_ssc_list.do](https://github.com/arlionn/stata_ssc_list/blob/main/stata_ssc_list.do)
+
+Usage: download, and do it (**Ctrl+D**). 
 
 
 <br>
