@@ -1,18 +1,18 @@
 # stata_ssc_list
 get all Stata commands contributed at SSC.
 
-## Output
+## Output using Stata
 
 - [连享会](https://www.lianxh.cn/search.html?s=连享会), 2024, [Stata外部命令：SSC所有外部命令清单-按时间排序](https://www.lianxh.cn/details/1297.html), 连享会 No.1297.
 - [连享会](https://www.lianxh.cn/search.html?s=连享会), 2024, [Stata外部命令：SSC所有外部命令清单-按类别排序](https://www.lianxh.cn/details/141.html), 连享会 No.141.
+- Stata codes
+  - [stata_ssc_list.do](https://github.com/arlionn/stata_ssc_list/blob/main/stata_ssc_list.do)
+  - Usage: download, and do it (**Ctrl+D**). 
 
-## Stata codes
-
-- [stata_ssc_list.do](https://github.com/arlionn/stata_ssc_list/blob/main/stata_ssc_list.do)
-
-Usage: download, and do it (**Ctrl+D**). 
-
-
+## Output using R
+- 连享会, 2024, [Stata外部命令：SSC所有外部命令清单-按首字母分类](https://www.lianxh.cn/details/1501.html), 连享会 No.1501.
+- R codes
+  - []()
 <br>
 <br>
 
