@@ -12,7 +12,8 @@ get all Stata commands contributed at SSC.
 ## Output using R
 - 连享会, 2024, [Stata外部命令：SSC所有外部命令清单-按首字母分类](https://www.lianxh.cn/details/1501.html), 连享会 No.1501.
 - R codes
-  - []()
+  - [stata_ssc_list_R_codes.r](https://github.com/arlionn/stata_ssc_list/blob/main/stata_ssc_list_R_codes.r)
+
 <br>
 <br>
 
